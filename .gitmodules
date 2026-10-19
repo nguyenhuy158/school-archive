@@ -1,0 +1,84 @@
+[submodule "api-testing"]
+	path = api-testing
+	url = git@github.com:nguyenhuy158/api-testing.git
+[submodule "call"]
+	path = call
+	url = git@github.com:nguyenhuy158/call.git
+[submodule "clipboard"]
+	path = clipboard
+	url = git@github.com:nguyenhuy158/clipboard.git
+[submodule "dev-books"]
+	path = dev-books
+	url = git@github.com:nguyenhuy158/dev-books.git
+[submodule "diagrams"]
+	path = diagrams
+	url = git@github.com:nguyenhuy158/diagrams.git
+[submodule "dip"]
+	path = dip
+	url = git@github.com:nguyenhuy158/dip.git
+[submodule "final_dip"]
+	path = final_dip
+	url = git@github.com:nguyenhuy158/final_dip.git
+[submodule "FlipClockRetro"]
+	path = FlipClockRetro
+	url = git@github.com:nguyenhuy158/FlipClockRetro.git
+[submodule "iot-final"]
+	path = iot-final
+	url = git@github.com:nguyenhuy158/iot-final.git
+[submodule "key-logger"]
+	path = key-logger
+	url = git@github.com:nguyenhuy158/key-logger.git
+[submodule "mini-pet-project-images"]
+	path = mini-pet-project-images
+	url = git@github.com:nguyenhuy158/mini-pet-project-images.git
+[submodule "mini-tools"]
+	path = mini-tools
+	url = git@github.com:nguyenhuy158/mini-tools.git
+[submodule "mining-probabilistic-maximal-high-utility-frequent-itemsets"]
+	path = mining-probabilistic-maximal-high-utility-frequent-itemsets
+	url = git@github.com:nguyenhuy158/mining-probabilistic-maximal-high-utility-frequent-itemsets.git
+[submodule "Music_Player"]
+	path = Music_Player
+	url = git@github.com:nguyenhuy158/Music_Player.git
+[submodule "nguyenhuy158.github.io"]
+	path = nguyenhuy158.github.io
+	url = git@github.com:nguyenhuy158/nguyenhuy158.github.io.git
+[submodule "nodejs-502070-2324-final-project"]
+	path = nodejs-502070-2324-final-project
+	url = git@github.com:nguyenhuy158/nodejs-502070-2324-final-project.git
+[submodule "nodejs-502070-2324-midterm-project"]
+	path = nodejs-502070-2324-midterm-project
+	url = git@github.com:nguyenhuy158/nodejs-502070-2324-midterm-project.git
+[submodule "pet-tools"]
+	path = pet-tools
+	url = git@github.com:nguyenhuy158/pet-tools.git
+[submodule "PetStoreWebsite"]
+	path = PetStoreWebsite
+	url = git@github.com:nguyenhuy158/PetStoreWebsite.git
+[submodule "QuanLyXiNghiepMay"]
+	path = QuanLyXiNghiepMay
+	url = git@github.com:nguyenhuy158/QuanLyXiNghiepMay.git
+[submodule "Rent_Studio"]
+	path = Rent_Studio
+	url = git@github.com:nguyenhuy158/Rent_Studio.git
+[submodule "Rent_Studio_Web"]
+	path = Rent_Studio_Web
+	url = git@github.com:nguyenhuy158/Rent_Studio_Web.git
+[submodule "sliding_tile"]
+	path = sliding_tile
+	url = git@github.com:nguyenhuy158/sliding_tile.git
+[submodule "springcommerce"]
+	path = springcommerce
+	url = git@github.com:nguyenhuy158/springcommerce.git
+[submodule "todo-list-android"]
+	path = todo-list-android
+	url = git@github.com:nguyenhuy158/todo-list-android.git
+[submodule "volume-control"]
+	path = volume-control
+	url = git@github.com:nguyenhuy158/volume-control.git
+[submodule "web-advanced"]
+	path = web-advanced
+	url = git@github.com:nguyenhuy158/web-advanced.git
+[submodule "web-question"]
+	path = web-question
+	url = git@github.com:nguyenhuy158/web-question.git
