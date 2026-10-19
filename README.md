@@ -9,7 +9,9 @@ git submodule update --init <folder>   # one project; avoid --recursive
 
 Other umbrellas (all tagged `umbrella`: `gh repo list nguyenhuy158 --topic umbrella`):
 
-- [personal-projects](https://github.com/nguyenhuy158/personal-projects) — Apps, tools, CLI cá nhân và homelab
+- [personal-projects](https://github.com/nguyenhuy158/personal-projects) — Apps, tools, CLI cá nhân; hạ tầng nằm trong umbrella con homelab
+- [homelab](https://github.com/nguyenhuy158/homelab) — Hạ tầng, self-host, dotfiles; config Nix nằm trong umbrella con nix. Con của personal-projects
+- [nix](https://github.com/nguyenhuy158/nix) — Config Nix: NixOS, nix-darwin, dev shell. Con của homelab
 - [techcoop-hub](https://github.com/nguyenhuy158/techcoop-hub) — Repo cá nhân liên quan Techcoop: FarmNet, FarmLink, Odoo E2E
 - [odoo-tools](https://github.com/nguyenhuy158/odoo-tools) — Tool, script và tài liệu Odoo dùng chung
 - [playground](https://github.com/nguyenhuy158/playground) — Repo học và thử nghiệm: template, demo framework, test tool
